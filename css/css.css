@@ -42,7 +42,7 @@ ul li a {
 .hide {
   padding: 16px;
   font-size: 22px;
-  background: #112d4e;
+  background-image: radial-gradient(circle at 120.71% 50%, #783cf2 0, #783cf2 50%, #783cf2 100%);
   color: white;
   cursor: pointer;
   display: none;
