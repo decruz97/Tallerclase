@@ -13,11 +13,11 @@ header {
   padding: 40px;
   color: white;
   text-align: center;
-  background: #112d4e;
+  background-image: radial-gradient(circle at 50% -20.71%, #e459ea 0, #c84ded 16.67%, #a544f0 33.33%, #783cf2 50%, #2538f4 66.67%, #0039f5 83.33%, #003af6 100%);
 }
 
 nav ul {
-  background: #164884;
+  background-image: radial-gradient(circle at 120.71% 50%, #783cf2 0, #783cf2 50%, #783cf2 100%);
   text-align: center;
   list-style: none;
   overflow: hidden;
